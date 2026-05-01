@@ -1,1 +1,1 @@
-// philharmonic-connector-impl-llm-gemini: placeholder
+//! Placeholder for the Gemini LLM connector implementation.
